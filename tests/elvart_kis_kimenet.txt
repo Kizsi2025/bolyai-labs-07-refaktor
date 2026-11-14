@@ -1,0 +1,5 @@
+Bolyai Labs – havi hívásriport
+Összes hívás: 5, sikeres: 80.0%
+- kisebb: 3 hívás, 66.7% sikeres, átlag 750.3 ms, p90 900 ms, lassú: 1, költség: 0.92 USD
+- nagyobb: 2 hívás, 100.0% sikeres, átlag 750.0 ms, p90 300 ms, lassú: 1, költség: 6.0 USD
+Teljes költség: 6.92 USD

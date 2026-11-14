@@ -1,0 +1,24 @@
+{
+ "osszes": 5,
+ "modellek": {
+  "kisebb": {
+   "hivasok": 3,
+   "sikeres_arany": 0.667,
+   "atlag_ms": 750.3,
+   "p90_ms": 900,
+   "koltseg_usd": 0.92,
+   "lassu_hivasok": 1
+  },
+  "nagyobb": {
+   "hivasok": 2,
+   "sikeres_arany": 1.0,
+   "atlag_ms": 750.0,
+   "p90_ms": 300,
+   "koltseg_usd": 6.0,
+   "lassu_hivasok": 1
+  }
+ },
+ "sikeres_arany": 0.8,
+ "koltseg_usd": 6.92,
+ "figyelmeztetes": ""
+}

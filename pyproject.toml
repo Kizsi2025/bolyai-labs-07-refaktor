@@ -1,0 +1,12 @@
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+# E/W: stílus, F: hibák (pl. nem használt import), C90: bonyolultság, N: elnevezések, PLR2004: „varázsszámok”
+select = ["E", "F", "W", "C90", "N", "PLR2004"]
+
+[tool.ruff.lint.mccabe]
+max-complexity = 5
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

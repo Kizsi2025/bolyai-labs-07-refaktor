@@ -1,0 +1,24 @@
+{
+ "osszes": 1000,
+ "modellek": {
+  "kisebb": {
+   "hivasok": 501,
+   "sikeres_arany": 0.984,
+   "atlag_ms": 369.9,
+   "p90_ms": 475,
+   "koltseg_usd": 80.45,
+   "lassu_hivasok": 0
+  },
+  "nagyobb": {
+   "hivasok": 499,
+   "sikeres_arany": 0.437,
+   "atlag_ms": 898.0,
+   "p90_ms": 1022,
+   "koltseg_usd": 1118.23,
+   "lassu_hivasok": 238
+  }
+ },
+ "sikeres_arany": 0.711,
+ "koltseg_usd": 1198.68,
+ "figyelmeztetes": "Alacsony a sikeres hívások aránya!"
+}
